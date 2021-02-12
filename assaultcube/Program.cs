@@ -68,7 +68,7 @@ namespace assaultcube
                 Console.WriteLine("current health: {0}", memory.ReadInt(health));
             }
 
-            if(healthrr == "yes")
+            /*if(healthrr == "yes")
             {
                 Console.Clear();
                 do
@@ -89,7 +89,7 @@ namespace assaultcube
                 Console.WriteLine("\npid: {0}", pid);
                 Console.WriteLine("current ammo: {0}", memory.ReadInt(ammo));
                 Console.WriteLine("current health: {0}", memory.ReadInt(health));
-            }
+            }*/
 
             System.Threading.Thread.Sleep(-1);
         }
