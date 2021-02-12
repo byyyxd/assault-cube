@@ -1,0 +1,12 @@
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\assaultcube.exe.config
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\assaultcube.exe
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\assaultcube.pdb
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\Memory.dll
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\Memory.xml
+C:\Users\bysec\source\repos\assaultcube\assaultcube\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bysec\source\repos\assaultcube\assaultcube\obj\Debug\assaultcube.csprojAssemblyReference.cache
+C:\Users\bysec\source\repos\assaultcube\assaultcube\obj\Debug\assaultcube.csproj.CoreCompileInputs.cache
+C:\Users\bysec\source\repos\assaultcube\assaultcube\obj\Debug\assaultcube.csproj.CopyComplete
+C:\Users\bysec\source\repos\assaultcube\assaultcube\obj\Debug\assaultcube.exe
+C:\Users\bysec\source\repos\assaultcube\assaultcube\obj\Debug\assaultcube.pdb
